@@ -48,6 +48,11 @@ final class TowerOfHanoi {
         }
     }
 
+    /**
+    * This starting main() function.
+    *
+    * @param args No args will be used
+    */
     public static void main(final String[] args) {
         final int startPeg = 1;
         final int endPeg = 3;
